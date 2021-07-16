@@ -1,0 +1,35 @@
+{
+  "name": "vawait",
+  "version": "1.0.1",
+  "description": "use promise result in vue3 template",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build" : "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://registry.npmjs.org"
+  },
+  "keywords": [
+    "vue-await",
+    "vawait",
+    "vue",
+    "vue3",
+    "await",
+    "promise",
+    "template"
+  ],
+  "author": "ooooonly",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.0.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
